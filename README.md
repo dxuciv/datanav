@@ -1,7 +1,3 @@
-Aquí tienes un README detallado para tu proyecto:
-
----
-
 # Data Analysis Dashboard
 
 ## Overview
