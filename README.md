@@ -28,7 +28,7 @@ This project is a **Data Analysis Dashboard** built with React and TypeScript, o
    ```
 2. Navigate to the project directory:
    ```bash
-   cd datawise-dashboard
+   cd datanav
    ```
 3. Install dependencies:
    ```bash
